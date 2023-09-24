@@ -1,0 +1,10 @@
+1. Trong kho trung chuyển:
+- Hàng hóa cần được phân loại theo các đơn vị kho nhỏ hơn (từ tỉnh->huyện->xã)
+
+- Robot quét QR, biết được thông tin địa điểm tiếp theo.
+
+- Robot hỗ trợ Lidar SLAM chở gói hàng được đặt đến vị trí tập kết của gói hàng đó.
+
+
+2. Trong kho lưu trữ:
+- Hàng hóa đã được phân loại theo danh mục
