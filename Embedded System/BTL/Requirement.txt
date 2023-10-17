@@ -1,0 +1,10 @@
+- IoT trong mô hình nhà thông minh, nông nghiệp thông minh
+
+- Yêu cầu:
+	+ Giao tiếp tối thiểu 2 thiết bị cảm biến.
+	+ Nạp firmware từ xa.
+	+ Mô tả cụ thể các task trong dự án chạy ntn
+- vd: Quan trắc thời tiết (nhiệt, ẩm), tưới nước tự động, nhà thông minh điều khiển từ xa, đồng hồ đeo tay thông minh, tay cầm điều khiển bluetooth, đỗ xe thông minh
+
+- Nhúng vào hệ thống IoT, quan tâm về bảo mật, học máy
+	+ Đánh
